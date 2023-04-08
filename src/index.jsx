@@ -5,7 +5,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <React.StrictMode>
     <div>
-      <h1>React App</h1>
+      <h1>Typescript React App</h1>
     </div>
   </React.StrictMode>
 )
